@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Krishna Kumawat!</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <div align="center">
-   <img  alt="coding" width ="400" src="https://github.com/KrishKumawat/KrishKumawat/blob/main/image.gif"/>
+   <img  alt="coding" width ="220" src="https://github.com/KrishKumawat/KrishKumawat/blob/main/image.gif"/>
 </div>
 
 ## 🚀 About me
