@@ -1,14 +1,13 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Krishna Kumawat!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Krishna Kumawat!</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
+<p align="center"><img align="center" src="https://github.com/KrishKumawat/KrishKumawat/blob/main/image.gif" width=250 /></p>
 
-
-## 🚀 About me
+## 🙋‍♂️ About me
 
 - 🎮 I’m currently learning **React**
 - 💻 I love working on **Open Source Projects**
 - 📫 How to reach me **krishkumawat634@gmail.com**
-- - 📫 How to reach me **krishkumawat634@gmail.com**
 - 🙌 Let's connect and collaborate - *[Krishna Kumawat](https://www.linkedin.com/in/krishnakumawat/)*
 
 
