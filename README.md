@@ -34,15 +34,15 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats">
+    <a href="https://github.com/KrishKumawat/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=KrishKumawat&theme=burnt-neon&hide_border=true&border_radius=10" alt="GitHub Streak"/>
     </a>
 </p> 
 <div align="center">
-    <a href="https://github.com/KrishKumawat/github-readme-stats">
+    <a href="https://github.com/KrishKumawat/">
         <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=KrishKumawat&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
     </a>
-    <a href="https://github.com/KrishKumawat/github-readme-stats">
+    <a href="https://github.com/KrishKumawat">
         <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishKumawat&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&show_icons=true&hide=jupyter%20notebook,dockerfile,procfile" />
     </a> 
 </div>
